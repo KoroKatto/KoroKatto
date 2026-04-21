@@ -1,1 +1,1 @@
-![Silly terminal GIF](./terminal.gif)
+![Silly terminal GIF](/terminal.gif)
