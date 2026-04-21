@@ -1,2 +1,1 @@
-# Korocatto
-Ermagherd, it me.
+![Silly terminal GIF](./terminal.gif)
