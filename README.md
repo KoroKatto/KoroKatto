@@ -1,1 +1,1 @@
-![alt text][https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]
+<img align="center" height="200" src="https://github.com/KoroKatto/KoroKatto/blob/main/terminal-intro.gif"/>
