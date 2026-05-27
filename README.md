@@ -13,5 +13,5 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,python,git" height="30"/>
+  <img src="https://skillicons.dev/icons?i=cpp,html,cs,css,js,python,git&theme=dark" height="30"/>
 </div>
